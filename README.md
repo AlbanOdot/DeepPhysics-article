@@ -3,3 +3,7 @@ This repository present the code associated with the paper "DeepPhysics: a physi
 
 The article can be found at :
 https://hal.archives-ouvertes.fr/hal-03327818
+
+Requires : 
+  Python 3.6+
+  Pytorch 1.10+
